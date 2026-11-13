@@ -1,4 +1,6 @@
-print("Addition", 8 + 7)
-print("Subtraction", 9-2)
-print("Multiplication", 6*2)
-print("Division", 9/3)
+a = 10
+b = 7
+print("Addition", a + b)
+print("Subtraction", a - b)
+print("Multiplication", a * b)
+print("Division", a / b)

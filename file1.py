@@ -1,4 +1,4 @@
 print("Addition", 8 + 7)
-print("sub", 9-2)
-print("mul", 6*2)
-print("div", 9/3)
+print("Subtraction", 9-2)
+print("Multiplication", 6*2)
+print("Division", 9/3)
